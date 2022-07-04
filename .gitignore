@@ -1,0 +1,5 @@
+*.xlsx
+*.csv
+*.pdf
+.ipynb_checkpoints/
+.python-version

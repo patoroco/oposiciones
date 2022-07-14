@@ -3,3 +3,4 @@
 *.pdf
 .ipynb_checkpoints/
 .python-version
+cache/
